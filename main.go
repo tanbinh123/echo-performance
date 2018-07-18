@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/labstack/echo"
-	"github.com/tomo0111/echo-performance/controller"
-	"github.com/tomo0111/echo-performance/common"
+	"github.com/tomoyane/echo-performance/common"
+	"github.com/tomoyane/echo-performance/controller"
 )
 
 func main() {

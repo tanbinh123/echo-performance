@@ -3,8 +3,8 @@ package controller
 import (
 	"net/http"
 	"github.com/labstack/echo"
-	"github.com/tomo0111/echo-performance/entity"
-	"github.com/tomo0111/echo-performance/common"
+	"github.com/tomoyane/echo-performance/entity"
+	"github.com/tomoyane/echo-performance/common"
 )
 
 func ItemController (c echo.Context) error {
