@@ -30,7 +30,7 @@ $ docker build -t {username}/echo-performance:latest .
 
 Set Environment variable.
 ```
-DB_HOST={database source}
+DB_SOURCE={database source}
 ```
 
 Docker run.
